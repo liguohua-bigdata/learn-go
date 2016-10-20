@@ -13,6 +13,8 @@
 >
   1. 《半小时go语言入门》-->halfhour
   2. 《go语言编程》-->goprogram
+  3. 《无闻老师的go语言教程》-->unknwon
+  4. 《go语言参考》-->referencess
   
 ##三、联系方式
 >
